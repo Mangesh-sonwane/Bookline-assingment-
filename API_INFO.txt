@@ -1,0 +1,18 @@
+localhost:3000/api/users/register   => for user registration
+
+* ---------------------------------------- Student Details -------------------------------- *
+
+GET     =>    localhost:3000/Student   => for student Details
+GET     =>    localhost:3000/Student/studentId => get back specific student details by id
+POST    =>    localhost:3000/Student => for Submit student details
+DELETE  =>    localhost:3000/Student/studentId => Delete Specific Student Details
+PATCH   =>    localhost:3000/Student/studentId => Update a Student Details
+
+
+
+
+* ---------------------------------------- Class Details -------------------------------- *
+
+GET    => localhost:3000/class    -  get all class information
+POST   => localhost:3000/class    -  for Submit Class details
+
